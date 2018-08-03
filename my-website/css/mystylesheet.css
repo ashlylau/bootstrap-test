@@ -1,0 +1,147 @@
+/*custom classes*/
+/* .affix {
+  top: 0;
+  width: 100%;
+}
+
+.affix-top {
+  width: 100%;
+}
+
+.affix-bottom {
+  position: absolute;
+  width: 100%;
+} */
+
+.container {
+  padding: 20px 10% 20px 10%;
+}
+
+body {
+  padding: 0px 10px 50px 10px;
+}
+
+.navbar {
+  padding: 10px 10px 0px 10.5px;
+  /* background-color: #ffffff; */
+}
+
+.navbar h1 {
+  font-weight: bold;
+}
+
+.navbar a {
+  color: #333333;
+}
+
+.navbar a:hover {
+  text-decoration: none;
+  color: #333333;
+}
+
+.navbar span {
+  font-size: 15px;
+  float: right;
+}
+
+/* .sidenav {
+  height: 100%;
+  width: 100px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  right: 0;
+  /* background-color: #111; */
+  /* overflow-x: hidden;
+  padding-top: 20px;
+} */
+
+.about h1 {
+  margin-top: 100px;
+}
+
+.project-page h1 {
+  margin-top: 100px;
+}
+
+.emailreveal{
+  visibility: hidden;
+  color: #2a3975;
+  margin-left: 10px;;
+}
+
+.email:hover .emailreveal{
+  visibility: visible;
+  opacity: 1;
+}
+
+.media {
+  margin-top: 35px;
+}
+
+.website-name {
+  font-family: Arial;
+}
+
+.website-name h1 {
+  font-weight: bold;
+  font-size: 60px;
+}
+
+
+.website-name li {
+  font-size: 15px;
+}
+
+.top-buffer {
+  margin-top: 20px;
+}
+
+.center {
+  margin: auto;
+  margin-bottom: 100px;
+  margin-top: 100px;
+  width: 80%;
+  padding: 10px;
+}
+
+.grid-container {
+  margin: 20px 80px 20px 80px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 20px;
+}
+
+.image-content {
+  font-family: sans-serif;
+  max-width: 800px;
+  width: 80%
+}
+
+.image-content h1 {
+  font-size: 30px;
+}
+
+.image-content h3 {
+  font-size: 15px;
+}
+
+.image-content p {
+  margin-top: 20px;
+}
+
+.moreworks {
+  font-weight: bold;
+}
+
+/* .about {
+  margin: auto;
+  margin-top: 50px;
+  width: 80%
+} */
+
+.contact {
+  margin: auto;
+  margin-top: 50px;
+  width: 80%
+}
